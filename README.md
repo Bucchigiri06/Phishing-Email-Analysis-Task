@@ -1,3 +1,6 @@
+<img width="1213" height="837" alt="image" src="https://github.com/user-attachments/assets/8b340f6e-06be-466f-830a-9cd0f0ec4cd2" />
+
+
 Phishing Email Analysis Report – Fake PayPal Payment Notification**
 
 1. Title
